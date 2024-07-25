@@ -63,6 +63,7 @@ $ docker ps
 
 ## Environment Variables
 
+
 Ensure you have the correct environment variables set up in your `.env` files. For example:
 
 ```env
